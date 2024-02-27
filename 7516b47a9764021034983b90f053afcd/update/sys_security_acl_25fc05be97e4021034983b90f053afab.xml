@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="sp_portal.*">url_suffix=ses^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow create for all fields in sp_portal, for users with roles (admin, itil), and if the ACL condition (url_suffix=ses^EQ) evaluates to true.</description>
+        <name>sp_portal.*</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 19:41:23</sys_created_on>
+        <sys_id>25fc05be97e4021034983b90f053afab</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sp_portal.*</sys_name>
+        <sys_package display_value="Staging Exercise 1" source="7516b47a9764021034983b90f053afcd">7516b47a9764021034983b90f053afcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</sys_scope>
+        <sys_update_name>sys_security_acl_25fc05be97e4021034983b90f053afab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 19:43:32</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

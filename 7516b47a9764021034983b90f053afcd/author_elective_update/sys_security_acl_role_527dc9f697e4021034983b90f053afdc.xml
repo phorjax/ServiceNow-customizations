@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 19:41:23</sys_created_on>
+        <sys_id>527dc9f697e4021034983b90f053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil_admin</sys_name>
+        <sys_package display_value="Staging Exercise 1" source="7516b47a9764021034983b90f053afcd">7516b47a9764021034983b90f053afcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</sys_scope>
+        <sys_security_acl display_value="">25fc05be97e4021034983b90f053afab</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_527dc9f697e4021034983b90f053afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 19:41:23</sys_updated_on>
+        <sys_user_role display_value="itil_admin" name="itil_admin">28322f3cc611228500e20459e33eef34</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</application>
+        <file_path/>
+        <instance_id>6baf186bdb6ef15439639027c59619b0</instance_id>
+        <instance_name>dev221081</instance_name>
+        <name>sys_security_acl_role_527dc9f697e4021034983b90f053afdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-27 19:41:23</sys_created_on><sys_id>527dc9f697e4021034983b90f053afdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.itil_admin</sys_name><sys_package display_value="Staging Exercise 1" source="7516b47a9764021034983b90f053afcd">7516b47a9764021034983b90f053afcd</sys_package><sys_policy/><sys_scope display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</sys_scope><sys_security_acl display_value="">25fc05be97e4021034983b90f053afab</sys_security_acl><sys_update_name>sys_security_acl_role_527dc9f697e4021034983b90f053afdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-27 19:41:23</sys_updated_on><sys_user_role display_value="itil_admin" name="itil_admin">28322f3cc611228500e20459e33eef34</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1862568680</payload_hash>
+        <record_name>.itil_admin</record_name>
+        <reverted_from/>
+        <source>bd6630ba9764021034983b90f053afce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 19:41:23</sys_created_on>
+        <sys_id>469d09b29728021034983b90f053af95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dec1608950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 19:41:23</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4a9d09b2b52802106e0feefe4dfd0494</update_guid>
+        <update_guid_history>4a9d09b2b52802106e0feefe4dfd0494:-1862568680</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".itil_admin">251ecdb29728021034983b90f053af8e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 19:43:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>04be2d5800004e7f95e284b4f77acc51</sys_id>
+        <sys_metadata>527dc9f697e4021034983b90f053afdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil_admin</sys_name>
+        <sys_package display_value="Staging Exercise 1" source="7516b47a9764021034983b90f053afcd">7516b47a9764021034983b90f053afcd</sys_package>
+        <sys_parent display_value="sp_portal.*">25fc05be97e4021034983b90f053afab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</sys_scope>
+        <sys_scope_delete display_value="">089d757d61cc4392836a6856e96d9ba4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_527dc9f697e4021034983b90f053afdc</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_527dc9f697e4021034983b90f053afdc">469d09b29728021034983b90f053af95</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 19:43:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
