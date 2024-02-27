@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="staging_exercise1">2e3f88d297e0021034983b90f053af8b</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
+        <login_page display_value="login_page">58ddd64197e4821034983b90f053aff7</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Staging exercise 1">08d8f8ea97e8021034983b90f053af21</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 18:07:50</sys_created_on>
+        <sys_id>3ff7783e9764021034983b90f053af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>staging exercise 1 scoped</sys_name>
+        <sys_package display_value="Staging Exercise 1" source="7516b47a9764021034983b90f053afcd">7516b47a9764021034983b90f053afcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</sys_scope>
+        <sys_update_name>sp_portal_3ff7783e9764021034983b90f053af5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 18:07:50</sys_updated_on>
+        <theme display_value="EC Theme">9b6f06d71bb8f85047582171604bcb9c</theme>
+        <title>staging exercise 1 scoped</title>
+        <ts_index_group/>
+        <url_suffix>ses</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ff7783e9764021034983b90f053af5c"/>
+</record_update>
