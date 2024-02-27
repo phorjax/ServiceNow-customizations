@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.ses.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 18:07:50</sys_created_on>
+        <sys_id>fb28b83e9764021034983b90f053af60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.ses.enable_rem_conversion</sys_name>
+        <sys_package display_value="Staging Exercise 1" source="7516b47a9764021034983b90f053afcd">7516b47a9764021034983b90f053afcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Staging Exercise 1">7516b47a9764021034983b90f053afcd</sys_scope>
+        <sys_update_name>sys_properties_fb28b83e9764021034983b90f053af60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 18:07:50</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=fb28b83e9764021034983b90f053af60"/>
+</record_update>
